@@ -1,0 +1,16 @@
+p {
+	color: snow;
+	background: darkblue;
+	font-weight: bold;
+	text-align: center;
+	font-size: 300%;
+}
+	/*write comment here*/
+.shadowed-text {
+	text-shadow: 4px 4px 8px rgba(10, 10, 11, 10.5);
+}
+body {
+	background-color: #000000;
+	text-align: center;
+	padding: 50px;
+}
