@@ -1,0 +1,16 @@
+.body {
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    background-color: rgb(13, 194, 194);
+}
+
+.input-container {
+    width: 400px;
+    margin: auto;
+    border: 5px;
+    border-radius: 10px;
+    border-color: blueviolet;
+    background-color: rgb(114, 110, 106);
+    box-shadow: 1px 1px 2px 0 rgba(0,0,0,1.5);
+}
