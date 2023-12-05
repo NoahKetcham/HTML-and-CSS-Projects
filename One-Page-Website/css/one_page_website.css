@@ -14,3 +14,19 @@
     background-color: rgb(114, 110, 106);
     box-shadow: 1px 1px 2px 0 rgba(0,0,0,1.5);
 }
+
+.inquiry {
+    margin: 10px;
+    border: 4px;
+    border-radius: 2px;
+    background-color: bisque;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.submit {
+    background-color: black;
+    color: aliceblue;
+    margin: 5px;
+    border: 2px;
+    border-radius: 4px;
+}
