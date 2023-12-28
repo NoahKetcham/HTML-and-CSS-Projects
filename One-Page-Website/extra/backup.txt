@@ -1,0 +1,69 @@
+<!--GALLERY-->
+		<section>
+			<div id="gallery">
+				<h1>Gallery</h1>
+				<div>
+				
+					<!-- Photo Container 1 -->
+					<div>
+						<div>
+							<img src="./Images/thumb/thumb1.png" alt="error displaying image">
+							<div>
+								<h3>BMW E36 M3</h3>
+								<p>$21,000</P>
+							</div>
+						</div>
+					</div>
+					<!-- end photo containter 1-->
+					
+					<!-- Photo Container 2 -->
+					<div>
+						<div>
+							<img src="./Images/thumb/thumb2.png" alt="error displaying image">
+							<div>
+								<h3>BMW E39 M5</h3>
+								<p>$42,000</P>
+							</div>
+						</div>
+					</div>
+					<!-- end photo containter 2-->
+					
+					<!-- Photo Container 3 -->
+					<div>
+						<div>
+							<img src="./Images/thumb/thumb3.png" alt="error displaying image">
+							<div>
+								<h3>BMW E70 X5M</h3>
+								<p>$17,500</P>
+							</div>
+						</div>
+					</div>
+					<!-- end photo containter 3-->
+					
+					<!-- Photo Container 4 -->
+					<div>
+						<div>
+							<img src="./Images/thumb/thumb4.png" alt="error displaying image">
+							<div>
+								<h3>BMW Z3 M Coupe</h3>
+								<p>$28,000</P>
+							</div>
+						</div>
+					</div>
+					<!-- end photo containter 4-->
+					
+					<!-- Photo Container 5 -->
+					<div>
+						<div>
+							<img src="./Images/thumb/thumb5.png" alt="error displaying image">
+							<div>
+								<h3>BMW 850CSI</h3>
+								<p>$81,000</P>
+							</div>
+						</div>
+					</div>
+					<!-- end photo containter 5-->
+				</div>
+			</div>
+		</section>
+		<!--end gallery-->
