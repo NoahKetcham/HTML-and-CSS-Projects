@@ -1,0 +1,22 @@
+<!--Contact section-->
+        <div class="Row" id="Contact">
+            <!--Contact inage left column-->
+            <div class="Column_2 Column_tall">
+                <img src="./img/pexels-photo-3077882.webp" alt="Contact image">
+            </div>
+            <!--Contact form, right column-->
+            <div class="Column_1 Column_tall">
+                <h1>Contact</h1>
+                <!--This specifoes where and how to send the form data; we are leaving it blank-->
+                <form action="https://formspree.io/f/xnqkejyp" method="POST"> <!-- Here we are utilizing a 3rd party service to submit the contact form data, insert your formspree endpoint in the action attribute -->
+                    <label>Name:</label>
+                        <input type="text" placeholder="Please enter your name here">
+                    <label>Email:</label>
+                        <input type="text" id="Email" name="Email" placeholder="Please input your email here">
+                    <label>Message:</label>
+                        <input type="text" id="Message" name="Messgae" placeholder="Please message me here">
+                    
+                    <input type="submit" value="SUBMIT">
+                </form>
+            </div>
+        </div>
